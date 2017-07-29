@@ -1,0 +1,42 @@
+body{
+	font-family: verdana;
+	background-color: #2d3d56;
+	margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 50px;
+
+}
+
+a{
+	color: #ffffff;
+}
+
+h1{
+color: #cbf2ef;
+}
+
+h3{
+color: #dd8323;
+}
+h2{
+	color: #e5da87;
+}
+section{
+	color: #c7cfdb;
+}
+
+strong{
+	color: #ffffff;
+}
+
+
+
+table, tr, td{
+	border-spacing: 0px;
+
+}
+code{
+	color: #999999;
+	font-size: 18px;
+}
