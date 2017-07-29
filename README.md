@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 <body>
-<H1>Bookmarks</H1>
+<H1>...</H1>
 <DL><p>
     <DT>
     <DL><p>
